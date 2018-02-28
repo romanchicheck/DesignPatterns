@@ -1,4 +1,4 @@
-package com.pandazilla.creational.factory;
+package com.pandazilla.creational.factories;
 
 public interface Shape {
     String name();

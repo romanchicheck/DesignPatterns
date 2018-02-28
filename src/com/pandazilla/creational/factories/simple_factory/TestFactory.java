@@ -1,4 +1,4 @@
-package com.pandazilla.creational.factory;
+package com.pandazilla.creational.factories.simple_factory;
 
 public class TestFactory {
     public static void main(String[] args) {

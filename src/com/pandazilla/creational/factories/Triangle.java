@@ -1,4 +1,4 @@
-package com.pandazilla.creational.factory;
+package com.pandazilla.creational.factories;
 
 public class Triangle implements Shape {
 
