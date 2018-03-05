@@ -12,30 +12,6 @@ public class Shape {
     private boolean isTriangle;
     private boolean isRectangle;
 
-    public int getHeight() {
-        return height;
-    }
-
-    public int getWidth() {
-        return width;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public boolean isSquare() {
-        return isSquare;
-    }
-
-    public boolean isTriangle() {
-        return isTriangle;
-    }
-
-    public boolean isRectangle() {
-        return isRectangle;
-    }
-
     private Shape(ShapeBuilder builder) {
         this.height = builder.height;
         this.width = builder.width;
