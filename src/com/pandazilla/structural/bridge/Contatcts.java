@@ -1,4 +1,4 @@
-package com.pandazilla.structural.adapter.bridge;
+package com.pandazilla.structural.bridge;
 
 public class Contatcts implements WebPage {
 

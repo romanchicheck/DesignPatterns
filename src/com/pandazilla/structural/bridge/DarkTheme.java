@@ -1,4 +1,4 @@
-package com.pandazilla.structural.adapter.bridge;
+package com.pandazilla.structural.bridge;
 
 public class DarkTheme implements Theme{
     @Override
